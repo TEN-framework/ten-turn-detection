@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="460" viewBox="0 0 800 460">
+  <!-- Background -->
+  <rect width="800" height="460" fill="#1e2430" rx="10" ry="10"/>
+  
+  <!-- Title -->
+  <text x="400" y="50" font-family="Arial, sans-serif" font-size="26" font-weight="bold" text-anchor="middle" fill="#ffffff">TEN Turn Detection in Full-Duplex Dialogue</text>
+  
+  <!-- Human representation - moved left -->
+  <circle cx="140" cy="230" r="50" fill="#4a90e2" opacity="0.9"/>
+  <text x="140" y="235" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="white">Human</text>
+  
+  <!-- Connection to Turn Detection -->
+  <path d="M190 230 C 215 230, 240 230, 265 230" stroke="#ffffff" stroke-width="3" fill="none" marker-end="url(#arrow1)"/>
+  
+  <!-- TEN Turn Detection container - moved left -->
+  <rect x="270" y="120" width="280" height="220" rx="15" ry="15" fill="#283446" stroke="#3a4a61" stroke-width="3"/>
+  <text x="410" y="150" font-family="Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle" fill="#f1c40f">TEN Turn Detection</text>
+  
+  <!-- Detection States within the container -->
+  <rect x="300" y="170" width="220" height="50" rx="8" ry="8" fill="#3949ab" opacity="0.8" stroke="#5465bd" stroke-width="2"/>
+  <text x="410" y="200" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#ffffff">Finished</text>
+  
+  <rect x="300" y="230" width="220" height="50" rx="8" ry="8" fill="#d81b60" opacity="0.8" stroke="#e63980" stroke-width="2"/>
+  <text x="410" y="260" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#ffffff">Wait</text>
+  
+  <rect x="300" y="290" width="220" height="50" rx="8" ry="8" fill="#8e24aa" opacity="0.8" stroke="#a040c5" stroke-width="2"/>
+  <text x="410" y="320" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#ffffff">Unfinished</text>
+  
+  <!-- Connection from TEN to AI -->
+  <path d="M550 230 C 575 230, 600 230, 625 230" stroke="#ffffff" stroke-width="3" fill="none" marker-end="url(#arrow2)"/>
+  
+  <!-- AI response representation - moved left -->
+  <circle cx="670" cy="170" r="40" fill="#9b59b6" opacity="0.9"/>
+  <circle cx="670" cy="170" r="40" fill="none" stroke="#b67ad2" stroke-width="2"/>
+  <text x="670" y="165" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">AI</text>
+  <text x="670" y="185" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="white">Start Speaking</text>
+  
+  <circle cx="670" cy="290" r="40" fill="#9b59b6" opacity="0.9"/>
+  <circle cx="670" cy="290" r="40" fill="none" stroke="#b67ad2" stroke-width="2"/>
+  <text x="670" y="285" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">AI</text>
+  <text x="670" y="305" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="white">Keep Listening</text>
+  
+  <!-- Connecting specific states to AI behaviors -->
+  <path d="M520 195 C 555 195, 590 195, 625 170" stroke="#3949ab" stroke-width="2.5" fill="none" marker-end="url(#arrowBlue)"/>
+  <path d="M520 255 C 555 255, 590 255, 625 290" stroke="#d81b60" stroke-width="2.5" fill="none" marker-end="url(#arrowPink)"/>
+  <path d="M520 315 C 555 315, 590 315, 625 290" stroke="#8e24aa" stroke-width="2.5" fill="none" marker-end="url(#arrowPurple)"/>
+  
+  <!-- Arrow marker definitions -->
+  <defs>
+    <marker id="arrow1" markerWidth="12" markerHeight="12" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#ffffff"/>
+    </marker>
+    <marker id="arrow2" markerWidth="12" markerHeight="12" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#ffffff"/>
+    </marker>
+    <marker id="arrowBlue" markerWidth="12" markerHeight="12" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#3949ab"/>
+    </marker>
+    <marker id="arrowPink" markerWidth="12" markerHeight="12" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#d81b60"/>
+    </marker>
+    <marker id="arrowPurple" markerWidth="12" markerHeight="12" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#8e24aa"/>
+    </marker>
+  </defs>
+  
+  <!-- Mental model explanation -->
+  <text x="400" y="385" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#f1c40f">Speech State Analysis</text>
+  <text x="400" y="415" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#ffffff">Real-time classification of human speech patterns</text>
+</svg>
