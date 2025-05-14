@@ -63,8 +63,8 @@ We conducted comprehensive evaluations comparing several open-source models for 
 
 | LANGUAGE | MODEL | FINISHED<br>ACCURACY | UNFINISHED<br>ACCURACY | WAIT<br>ACCURACY |
 |:--------:|:-----:|:--------------------:|:----------------------:|:----------------:|
-| English  | Model A | **59.74%** | **86.46%** | *N/A* |
-| English  | Model B | **71.61%** | **96.88%** | *N/A* |
+| English  | Model A | 59.74% | 86.46% | N/A |
+| English  | Model B | 71.61% | 96.88% | N/A |
 | English  | **TEN Turn Detection** | **90.64%** | **98.44%** | **91%** |
 
 
@@ -72,7 +72,7 @@ We conducted comprehensive evaluations comparing several open-source models for 
 
 | LANGUAGE | MODEL | FINISHED<br>ACCURACY | UNFINISHED<br>ACCURACY | WAIT<br>ACCURACY |
 |:--------:|:-----:|:--------------------:|:----------------------:|:----------------:|
-| Chinese  | Model B | **74.63%** | **88.89%** | *N/A* |
+| Chinese  | Model B | 74.63% | 88.89% | N/A |
 | Chinese  | **TEN Turn Detection** | **98.90%** | **92.74%** | **92%** |
 
 
