@@ -1,4 +1,4 @@
-# *TEN Turn Detection*
+# **TEN Turn Detection**
 ***Turn detection for full-duplex dialogue communication***
 
 ## Table of Contents
@@ -10,7 +10,6 @@
 - [Quick Start](#quick-start)
   - [Installation](#installation)
   - [Model Weights](#model-weights)
-    - [Downloading Model Weights](#downloading-model-weights)
   - [Inference](#inference)
 - [Citation](#citation)
 - [License](#license)
@@ -98,8 +97,6 @@ torch>=2.0.0
 
 The TEN Turn Detection model is available on HuggingFace:
 - Model Repository: [TEN-framework/TEN_Turn_Detection](https://huggingface.co/TEN-framework/TEN_Turn_Detection)
-
-#### Downloading Model Weights
 
 You can download the model in several ways:
 
