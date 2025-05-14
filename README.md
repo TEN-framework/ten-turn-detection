@@ -23,11 +23,11 @@ TEN Turn Detection is an advanced intelligent turn detection model designed spec
 
 TEN Turn Detection categorizes user's text into three key states:
 
-Finished: A finished utterance where the user has expressed a complete thought and expects a response. Example: "Hey there I was wondering can you help me with my order"
+**finished**: A finished utterance where the user has expressed a complete thought and expects a response. Example: "Hey there I was wondering can you help me with my order"
 
-Wait: An ambiguous utterance where the system cannot confidently determine if more speech will follow. Example: "This conversation needs to end now"
+**wait**: An ambiguous utterance where the system cannot confidently determine if more speech will follow. Example: "This conversation needs to end now"
 
-Unfinished: A clearly unfinished utterance where the user has momentarily paused but intends to continue speaking. Example: "Hello I have a question about"
+**unfinished**: A clearly unfinished utterance where the user has momentarily paused but intends to continue speaking. Example: "Hello I have a question about"
 
 These three classification states allow the TEN system to create natural conversation dynamics by intelligently managing turn-taking, reducing awkward interruptions while maintaining conversation flow.
 
@@ -47,11 +47,11 @@ Compared with multiple open-source solutions, TEN achieves superior performance 
 ## Prepared Dataset
 We have open-sourced the TEN-Turn-Detection TestSet, a bilingual (Chinese and English) collection of conversational inputs specifically designed to evaluate turn detection capabilities in AI dialogue systems. The dataset consists of three distinct components:
 
-wait.txt: Contains expressions requesting conversation pauses or termination
+*wait.txt*: Contains expressions requesting conversation pauses or termination
 
-unfinished.txt: Features incomplete dialogue inputs with truncated utterances
+*unfinished.txt*: Features incomplete dialogue inputs with truncated utterances
 
-finished.txt: Provides complete conversational inputs across multiple domains
+*finished.txt*: Provides complete conversational inputs across multiple domains
 
 
 ## Detection Performance
