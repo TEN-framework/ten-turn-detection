@@ -1,3 +1,6 @@
+# *TEN Turn Detection*
+***Turn detection for full-duplex dialogue communication***
+
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Introduction](#introduction)
@@ -29,7 +32,7 @@ Unfinished: A clearly unfinished utterance where the user has momentarily paused
 
 These three classification states allow the TEN system to create natural conversation dynamics by intelligently managing turn-taking, reducing awkward interruptions while maintaining conversation flow.
 
-TEN Turn Detection utilizes a multi-layered approach based on the transformer-based language model（Qwen2.5-7B） for semantic analysis.
+TEN Turn Detection utilizes a multi-layered approach based on the transformer-based language model(Qwen2.5-7B) for semantic analysis.
 
 ## Key Features
 
@@ -131,18 +134,18 @@ python inference.py --input "Your text to analyze"
 Example output:
 ```
 Loading model from TEN-framework/TEN_Turn_Detection...
-Running inference on: 'how are'
+Running inference on: 'Hello I have a question about'
 
 Results:
-Input: 'how are'
-Turn Detection Result: 'Unfinished'
+Input: 'Hello I have a question about'
+Turn Detection Result: 'unfinished'
 ```
 
 ## Citation
 If you use TEN Turn Detection in your research or applications, please cite:
 
 ```
-@misc{ten_turn_detection,
+@misc{TEN_Turn_Detection,
 author = {TEN Team},
 title = {TEN Turn Detection: Turn detection for full-duplex dialogue communication 
 
