@@ -120,7 +120,7 @@ You can download the model in several ways:
 
 ### Inference
 
-The inference script accepts command line arguments for system prompt and user input:
+The inference script accepts command line arguments for user input:
 
 ```
 # Basic usage
