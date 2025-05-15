@@ -1,8 +1,20 @@
-# **TEN Turn Detection**
-***Turn detection for full-duplex dialogue communication***
+![TEN Turn Detection banner](https://github.com/user-attachments/assets/14f868dd-56d3-4916-8485-94b1a211d37d)
+
+[![Discussion posts](https://img.shields.io/github/discussions/TEN-framework/ten-turn-detection?labelColor=gray&color=%20%23f79009)](https://github.com/TEN-framework/ten-turn-detection/discussions/)
+[![Commits](https://img.shields.io/github/commit-activity/m/TEN-framework/ten-turn-detection?labelColor=gray&color=pink)](https://github.com/TEN-framework/ten-turn-detection/graphs/commit-activity)
+[![Issues closed](https://img.shields.io/github/issues-search?query=repo%3ATEN-framework%2Ften-turn-detection%20is%3Aclosed&label=issues%20closed&labelColor=gray&color=green)](https://github.com/TEN-framework/ten-turn-detection/issues)
+![](https://img.shields.io/github/contributors/ten-framework/ten-turn-detection?color=c4f042&labelColor=gray&style=flat-square)
+![](https://img.shields.io/badge/license-apache%202.0-blue?labelColor=gray&style=flat-square)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome!-brightgreen.svg?style=flat-square)](https://github.com/TEN-framework/ten-turn-detection/pulls)
+
+[![GitHub watchers](https://img.shields.io/github/watchers/TEN-framework/ten-turn-detection?style=social&label=Watch)](https://GitHub.com/TEN-framework/ten-turn-detection/watchers/?WT.mc_id=academic-105485-koreyst)
+[![GitHub forks](https://img.shields.io/github/forks/TEN-framework/ten-turn-detection?style=social&label=Fork)](https://GitHub.com/TEN-framework/ten-turn-detection/network/?WT.mc_id=academic-105485-koreyst)
+[![GitHub stars](https://img.shields.io/github/stars/TEN-framework/ten-turn-detection?style=social&label=Star)](https://GitHub.com/TEN-framework/ten-turn-detection/stargazers/?WT.mc_id=academic-105485-koreyst)
+
+<br>
 
 ## Table of Contents
-- [Table of Contents](#table-of-contents)
+- [Welcome to TEN](#welcome-to-ten)
 - [Introduction](#introduction)
 - [Key Features](#key-features)
 - [Prepared Dataset](#prepared-dataset)
@@ -12,7 +24,37 @@
   - [Model Weights](#model-weights)
   - [Inference](#inference)
 - [Citation](#citation)
+- [TEN Ecosystem](#ten-ecosystem)
 - [License](#license)
+
+<br>
+
+## Welcome to TEN 
+
+TEN is a collection of open-source projects for building real-time, multimodal conversational voice agents, including [ TEN Framework ](https://github.com/ten-framework/ten-framework), [ TEN VAD ](https://github.com/ten-framewrok/ten-vad), [ TEN Turn Detection ](https://github.com/ten-framework/ten-turn-detection), TEN Agent, TMAN Designer, [ TEN Portal ](https://github.com/ten-framework/portal), and more.
+
+<br>
+
+| Community Channel | Purpose |
+| ---------------- | ------- |
+| [![Follow on X](https://img.shields.io/twitter/follow/TenFramework?logo=X&color=%20%23f5f5f5)](https://twitter.com/intent/follow?screen_name=TenFramework) | Follow TEN Framework on X for updates and announcements |
+| [![Discord TEN Community](https://dcbadge.vercel.app/api/server/VnPftUzAMJ?&style=flat&theme=light&color=lightgray)](https://discord.gg/VnPftUzAMJ) | Join our Discord community to connect with developers |
+| [![Hugging Face Space](https://img.shields.io/badge/Hugging%20Face-TEN%20Framework-yellow.svg?labelColor=gray&style=flat-square&logo=huggingface)](https://huggingface.co/TEN-framework) | Join our Hugging Face community to explore our spaces and models |
+| [![WeChat](https://img.shields.io/badge/TEN_Framework-WeChat_Group-%2307C160?logo=wechat&labelColor=darkgreen&color=gray)](https://github.com/TEN-framework/ten-agent/discussions/170) | Join our WeChat group for Chinese community discussions |
+
+<br>
+
+> \[!IMPORTANT]
+>
+> **Star TEN Repositories** ⭐️
+>
+> Get instant notifications for new releases and updates. Your support helps us grow and improve TEN!
+
+<br>
+
+![TEN star us gif](https://github.com/user-attachments/assets/eeebe996-8c14-4bf7-82ae-f1a1f7e30705)
+
+<br>
 
 ## Introduction
 
@@ -151,7 +193,41 @@ year = {2025},
 url = {https://github.com/TEN-framework/ten-turn-detection},
 }
 ```
+## TEN Ecosystem
+
+| Project | Preview |
+| ------- | ------- |
+| [**🏚️ TEN Framework**][ten-framework-link]<br>TEN is an open-source framework for real-time, multimodal conversational AI.<br><br>![][ten-framework-shield] | ![][ten-framework-banner] |
+| [**TEN VAD**][ten-vad-link]<br>TEN VAD is a low-latency, lightweight and high-performance streaming voice activity detector (VAD).<br><br>![][ten-vad-shield] | ![][ten-vad-banner] |
+| [**️TEN Turn Detection**][ten-turn-detection-link]<br>TEN is for full-duplex dialogue communication.<br><br>![][ten-turn-detection-shield] | ![][ten-turn-detection-banner] |
+| [**🎙️ TEN Agent**][ten-agent-link]<br>TEN Agent is a showcase of TEN Framewrok.<br><br> | ![][ten-agent-banner] |
+| **🎨 TMAN Designer** `beta`<br>TMAN Designer is low/no code option to make a voice agent with easy to use workflow UI.<br><br> | ![][tman-designer-banner] |
+| **📒 TEN Portal**<br>The official site of TEN framework, it has documentation and blog.<br><br>![][ten-docs-shield] | ![][ten-docs-banner] |
+
+<br>
+
 ## License 
 This project is Apache 2.0 licensed.
 
+[back-to-top]: https://img.shields.io/badge/-Back_to_top-gray?style=flat-square
 
+[ten-framework-shield]: https://img.shields.io/github/stars/ten-framework/ten_framework?color=ffcb47&labelColor=gray&style=flat-square&logo=github
+[ten-framework-banner]: https://github.com/user-attachments/assets/72c70d91-3db6-41d6-8ce0-8a2064564fb8
+[ten-framework-link]: https://github.com/ten-framework/ten_framework
+
+[ten-vad-link]: https://github.com/ten-framework/ten-vad
+[ten-vad-shield]: https://img.shields.io/github/stars/ten-framework/ten-vad?color=ffcb47&labelColor=gray&style=flat-square&logo=github
+[ten-vad-banner]: https://github.com/user-attachments/assets/c61d74e7-4356-4c74-98d8-af2cdd125642
+
+[ten-turn-detection-link]: https://github.com/ten-framework/ten-turn-detection
+[ten-turn-detection-shield]: https://img.shields.io/github/stars/ten-framework/ten-turn-detection?color=ffcb47&labelColor=gray&style=flat-square&logo=github
+[ten-turn-detection-banner]: https://github.com/user-attachments/assets/14f868dd-56d3-4916-8485-94b1a211d37d
+
+[ten-vad-link]: https://github.com/ten-framework/ten-vad
+
+[ten-agent-link]: https://github.com/ten-framework/ten-agent
+[ten-agent-banner]: https://ten-framework-assets.s3.us-east-1.amazonaws.com/readme/ten-agent.jpeg
+[tman-designer-banner]: https://ten-framework-assets.s3.us-east-1.amazonaws.com/tman-manager.jpeg
+
+[ten-docs-shield]: https://img.shields.io/github/stars/ten-framework/portal?color=ffcb47&labelColor=gray&style=flat-square&logo=github
+[ten-docs-banner]: https://ten-framework-assets.s3.us-east-1.amazonaws.com/readme/ten-doc.jpeg
