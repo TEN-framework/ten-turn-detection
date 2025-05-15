@@ -16,7 +16,7 @@
 
 ## Introduction
 
-**TEN Turn Detection** is an advanced intelligent turn detection model designed specifically for natural and dynamic communication between humans and AI agents. This technology addresses one of the most challenging aspects of human-AI conversation: detecting natural turn-taking cues and enabling contextually-aware interruptions. TEN incorporates deep semantic understanding of conversation context and linguistic patterns to create more natural dialogue with AI.
+**TEN Turn Detection** is an advanced intelligent turn detection model designed specifically for natural and dynamic communication between humans and AI agents. This technology addresses one of the most challenging aspects of human-AI conversation: detecting natural turn-taking cues and enabling contextually-aware interruptions. TEN Turn Detection incorporates deep semantic understanding of conversation context and linguistic patterns to create more natural dialogue with AI.
 <div align="center">
   <img src="images/turn_detection.svg" alt="TEN Turn Detection SVG Diagram" width="800"/>
 </div>
