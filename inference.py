@@ -43,8 +43,7 @@ def load_model(model_id):
     # Load model and tokenizer
     model = AutoModelForCausalLM.from_pretrained(
         model_id, 
-        trust_remote_code=True, 
-        low_cpu_mem_usage=True,
+        trust_remote_code=True,
         torch_dtype=torch.bfloat16
     )
     tokenizer = AutoTokenizer.from_pretrained(model_id, trust_remote_code=True)
