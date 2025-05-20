@@ -32,7 +32,7 @@
 
 ## Welcome to TEN 
 
-TEN is a collection of open-source projects for building real-time, multimodal conversational voice agents, including [ TEN Framework ](https://github.com/ten-framework/ten-framework), [ TEN VAD ](https://github.com/ten-framework/ten-vad), [ TEN Turn Detection ](https://github.com/ten-framework/ten-turn-detection), TEN Agent, TMAN Designer, [ TEN Portal ](https://github.com/ten-framework/portal), and more.
+TEN is a collection of open-source projects for building real-time, multimodal conversational voice agents, including [ TEN Framework ](https://github.com/ten-framework/ten-framework), [ TEN Turn Detection ](https://github.com/ten-framework/ten-turn-detection), TEN Agent, TMAN Designer, [ TEN Portal ](https://github.com/ten-framework/portal) and [ TEN VAD ](https://github.com/ten-framework/ten-vad) open to use.
 
 <br>
 
