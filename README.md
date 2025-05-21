@@ -6,6 +6,7 @@
 ![](https://img.shields.io/github/contributors/ten-framework/ten-turn-detection?color=c4f042&labelColor=gray&style=flat-square)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome!-brightgreen.svg?style=flat-square)](https://github.com/TEN-framework/ten-turn-detection/pulls)
 [![GitHub license](https://img.shields.io/badge/License-Apache_2.0_with_certain_conditions-blue.svg?labelColor=%20%23155EEF&color=%20%23528bff)](./LICENSE)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/TEN-framework/TEN-turn-detection)
 
 [![GitHub watchers](https://img.shields.io/github/watchers/TEN-framework/ten-turn-detection?style=social&label=Watch)](https://GitHub.com/TEN-framework/ten-turn-detection/watchers/?WT.mc_id=academic-105485-koreyst)
 [![GitHub forks](https://img.shields.io/github/forks/TEN-framework/ten-turn-detection?style=social&label=Fork)](https://GitHub.com/TEN-framework/ten-turn-detection/network/?WT.mc_id=academic-105485-koreyst)
@@ -26,6 +27,7 @@
   - [Inference](#inference)
 - [Citation](#citation)
 - [TEN Ecosystem](#ten-ecosystem)
+- [Ask Questions](#ask-questions)
 - [License](#license)
 
 <br>
@@ -212,6 +214,14 @@ url = {https://github.com/TEN-framework/ten-turn-detection},
 | [**🎙️ TEN Agent**][ten-agent-link]<br>TEN Agent is a showcase of TEN Framewrok.<br><br> | ![][ten-agent-banner] |
 | **🎨 TMAN Designer** `beta`<br>TMAN Designer is low/no code option to make a voice agent with easy to use workflow UI.<br><br> | ![][tman-designer-banner] |
 | **📒 TEN Portal**<br>The official site of TEN framework, it has documentation and blog.<br><br>![][ten-docs-shield] | ![][ten-docs-banner] |
+
+<br>
+
+## Ask Questions
+
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/TEN-framework/TEN-framework)
+
+Most questions can be answered by using DeepWiki, it is fast, intutive to use and supports multiple languages.
 
 <br>
 
