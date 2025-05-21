@@ -5,7 +5,7 @@
 [![Issues closed](https://img.shields.io/github/issues-search?query=repo%3ATEN-framework%2Ften-turn-detection%20is%3Aclosed&label=issues%20closed&labelColor=gray&color=green)](https://github.com/TEN-framework/ten-turn-detection/issues)
 ![](https://img.shields.io/github/contributors/ten-framework/ten-turn-detection?color=c4f042&labelColor=gray&style=flat-square)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome!-brightgreen.svg?style=flat-square)](https://github.com/TEN-framework/ten-turn-detection/pulls)
-[![GitHub license](https://img.shields.io/badge/License-Apache_2.0-blue.svg?labelColor=%20%23155EEF&color=%20%23528bff)](./LICENSE)
+[![GitHub license](https://img.shields.io/badge/License-Apache_2.0_with_certain_conditions-blue.svg?labelColor=%20%23155EEF&color=%20%23528bff)](./LICENSE)
 
 [![GitHub watchers](https://img.shields.io/github/watchers/TEN-framework/ten-turn-detection?style=social&label=Watch)](https://GitHub.com/TEN-framework/ten-turn-detection/watchers/?WT.mc_id=academic-105485-koreyst)
 [![GitHub forks](https://img.shields.io/github/forks/TEN-framework/ten-turn-detection?style=social&label=Fork)](https://GitHub.com/TEN-framework/ten-turn-detection/network/?WT.mc_id=academic-105485-koreyst)
@@ -216,7 +216,7 @@ url = {https://github.com/TEN-framework/ten-turn-detection},
 <br>
 
 ## License 
-This project is [ Apache 2.0 licensed ](./LICENSE).
+This project is [ Apache 2.0 licensed with certain conditions.](./LICENSE)
 
 [back-to-top]: https://img.shields.io/badge/-Back_to_top-gray?style=flat-square
 
