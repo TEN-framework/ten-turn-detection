@@ -142,7 +142,7 @@ We conducted comprehensive evaluations comparing several open-source models for 
 
 ```
 git clone https://github.com/TEN-framework/ten-turn-detection.git
-pip install "transformers>=4.30.0"
+pip install "transformers>=4.45.0"
 pip install "torch>=2.0.0"
 ```
 
