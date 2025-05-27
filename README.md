@@ -77,7 +77,7 @@ You are more than welcome to [Visit TEN Hugging Face Space](https://huggingface.
 
 **finished**: A finished utterance where the user has expressed a complete thought and expects a response. Example: "Hey there I was wondering can you help me with my order"
 
-**wait**: An ambiguous utterance where the system cannot confidently determine if more speech will follow. Example: "This conversation needs to end now"
+**wait**: An wait utterance where the user has explicitly instructed the AI not to speak. Example: "Shut up"
 
 **unfinished**: A clearly unfinished utterance where the user has momentarily paused but intends to continue speaking. Example: "Hello I have a question about"
 
