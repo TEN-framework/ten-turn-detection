@@ -1,3 +1,5 @@
+<div align="center">
+
 ![TEN Turn Detection banner][ten-turn-detection-banner]
 
 [![Discussion posts](https://img.shields.io/github/discussions/TEN-framework/ten-turn-detection?labelColor=gray&color=%20%23f79009)](https://github.com/TEN-framework/ten-turn-detection/discussions/)
@@ -12,6 +14,8 @@
 [![GitHub watchers](https://img.shields.io/github/watchers/TEN-framework/ten-turn-detection?style=social&label=Watch)](https://GitHub.com/TEN-framework/ten-turn-detection/watchers/?WT.mc_id=academic-105485-koreyst)
 [![GitHub forks](https://img.shields.io/github/forks/TEN-framework/ten-turn-detection?style=social&label=Fork)](https://GitHub.com/TEN-framework/ten-turn-detection/network/?WT.mc_id=academic-105485-koreyst)
 [![GitHub stars](https://img.shields.io/github/stars/TEN-framework/ten-turn-detection?style=social&label=Star)](https://GitHub.com/TEN-framework/ten-turn-detection/stargazers/?WT.mc_id=academic-105485-koreyst)
+
+</div>
 
 <br>
 
