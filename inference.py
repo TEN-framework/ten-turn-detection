@@ -93,7 +93,7 @@ if __name__ == "__main__":
     args = parse_args()
     
     # Model ID on HuggingFace
-    model_id = 'TEN-framework/TEN_Turn_Detector'
+    model_id = 'TEN-framework/TEN_Turn_Detection'
     
     # Load model and tokenizer
     print(f"Loading model from {model_id}...")
