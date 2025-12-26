@@ -231,7 +231,7 @@ Most questions can be answered by using DeepWiki, it is fast, intutive to use an
 
 ## License
 
-This project is [ Apache 2.0 licensed with certain conditions.](./LICENSE)
+This project is released pursuant to the Apache License, Version 2.0, with additional restrictions.For details, please refer to the[ LICENSE](./LICENSE) file.
 
 [ten-framework-shield]: https://img.shields.io/github/stars/ten-framework/ten_framework?color=ffcb47&labelColor=gray&style=flat-square&logo=github
 [ten-framework-banner]: https://github.com/user-attachments/assets/2a560a74-68f3-4f4a-9ec8-89464c42a9c7
