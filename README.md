@@ -1,6 +1,6 @@
 <div align="center">
 
-![Image](https://github.com/user-attachments/assets/c72d82cc-3667-496c-8bd6-3d194a91c452)
+![Image](https://github.com/user-attachments/assets/45867795-a859-4b50-8710-0ced635cb864)
 
 [![Discussion posts](https://img.shields.io/github/discussions/TEN-framework/ten-turn-detection?labelColor=gray&color=%20%23f79009)](https://github.com/TEN-framework/ten-turn-detection/discussions/)
 [![Commits](https://img.shields.io/github/commit-activity/m/TEN-framework/ten-turn-detection?labelColor=gray&color=pink)](https://github.com/TEN-framework/ten-turn-detection/graphs/commit-activity)
@@ -210,6 +210,7 @@ url = {https://github.com/TEN-framework/ten-turn-detection},
 
 ## TEN Ecosystem
 
+
 | Project | Preview |
 | ------- | ------- |
 | [**️TEN Framework**][ten-framework-link]<br>Open-source framework for conversational AI Agents.<br><br>![][ten-framework-shield] | ![][ten-framework-banner] |
@@ -217,7 +218,6 @@ url = {https://github.com/TEN-framework/ten-turn-detection},
 | [**️ TEN Turn Detection**][ten-turn-detection-link]<br>TEN Turn Detection enables full-duplex dialogue communication.<br><br>![][ten-turn-detection-shield] | ![][ten-turn-detection-banner] |
 | [**TEN Agent Examples**][ten-agent-example-link]<br>Usecases powered by TEN.<br><br> | ![][ten-agent-example-banner] |
 | [**TEN Portal**][ten-portal-link]<br>The official site of the TEN Framework with documentation and a blog.<br><br>![][ten-portal-shield] | ![][ten-portal-banner] |
-
 
 <br>
 
@@ -233,21 +233,21 @@ Most questions can be answered by using DeepWiki, it is fast, intutive to use an
 
 This project is released pursuant to the Apache License, Version 2.0, with additional restrictions.For details, please refer to the[ LICENSE](./LICENSE) file.
 
-[ten-framework-shield]: https://img.shields.io/github/stars/ten-framework/ten_framework?color=ffcb47&labelColor=gray&style=flat-square&logo=github
-[ten-framework-banner]: https://github.com/user-attachments/assets/2a560a74-68f3-4f4a-9ec8-89464c42a9c7
-[ten-framework-link]: https://github.com/ten-framework/ten_framework
+[ten-framework-shield]: https://img.shields.io/github/stars/ten-framework/ten-framework?color=ffcb47&labelColor=gray&style=flat-square&logo=github
+[ten-framework-banner]: https://github.com/user-attachments/assets/adf5a9ad-46a0-4bca-998f-c80465790f51
+[ten-framework-link]: https://github.com/ten-framework/ten-framework
 
 [ten-vad-link]: https://github.com/ten-framework/ten-vad
 [ten-vad-shield]: https://img.shields.io/github/stars/ten-framework/ten-vad?color=ffcb47&labelColor=gray&style=flat-square&logo=github
-[ten-vad-banner]: https://github.com/user-attachments/assets/e504135e-67fd-4fa1-b0e4-d495358d8aa5
+[ten-vad-banner]: https://github.com/user-attachments/assets/e7280a68-210b-44da-ad27-a4dbc1be6e4d
 
 [ten-turn-detection-link]: https://github.com/ten-framework/ten-turn-detection
 [ten-turn-detection-shield]: https://img.shields.io/github/stars/ten-framework/ten-turn-detection?color=ffcb47&labelColor=gray&style=flat-square&logo=github
-[ten-turn-detection-banner]: https://github.com/user-attachments/assets/c72d82cc-3667-496c-8bd6-3d194a91c452
+[ten-turn-detection-banner]: https://github.com/user-attachments/assets/45867795-a859-4b50-8710-0ced635cb864
 
 [ten-agent-example-link]: https://github.com/TEN-framework/ten-framework/tree/main/ai_agents/agents/examples
-[ten-agent-example-banner]:https://github.com/user-attachments/assets/7f735633-c7f6-4432-b6b4-d2a2977ca588
+[ten-agent-example-banner]: https://github.com/user-attachments/assets/c86c99f7-973d-42cb-bcb8-67e43a91899e
 
 [ten-portal-link]: https://github.com/ten-framework/portal
 [ten-portal-shield]: https://img.shields.io/github/stars/ten-framework/portal?color=ffcb47&labelColor=gray&style=flat-square&logo=github
-[ten-portal-banner]: https://github.com/user-attachments/assets/f56c75b9-722c-4156-902d-ae98ce2b3b5e
+[ten-portal-banner]: https://github.com/user-attachments/assets/54c552b5-f332-4ec6-8d85-910828404fce
