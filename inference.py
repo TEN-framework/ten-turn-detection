@@ -77,19 +77,21 @@ def infer(model, tokenizer, system_prompt, user_input):
     inf_messages = [{"role": "system", "content": system_prompt}] + [
         {"role": "user", "content": user_input}
     ]
-    input_ids = tokenizer.apply_chat_template(
-        inf_messages, add_generation_prompt=True, return_tensors="pt"
+    # return_dict=True gives the same BatchEncoding on transformers 4 and 5
+    # (5 made it the default, so the old tensor-only code broke there).
+    inputs = tokenizer.apply_chat_template(
+        inf_messages, add_generation_prompt=True, return_tensors="pt", return_dict=True
     ).to(device)
 
     with torch.no_grad():
         outputs = model.generate(
-            input_ids,
+            **inputs,
             max_new_tokens=1,
             do_sample=False,
             pad_token_id=tokenizer.eos_token_id,
         )
 
-    response = outputs[0][input_ids.shape[-1] :]
+    response = outputs[0][inputs["input_ids"].shape[-1] :]
     output = tokenizer.decode(response, skip_special_tokens=True)
     return output
 
